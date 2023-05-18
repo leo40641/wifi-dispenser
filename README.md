@@ -1,4 +1,4 @@
-# wifi-dispenser
+# Wifi Dispenser
 Control of a dispenser by wifi using ESP32
 
 - Hardware:
